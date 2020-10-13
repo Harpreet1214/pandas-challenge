@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 The instructions for the project and my considerations.
+=======
+The instructions for the project:
+>>>>>>> 1cf434f372c646e6dd21c27ae35c9cd0bfc6ce9f
 Your final report should include each of the following:
 
 Player Count
@@ -82,4 +86,9 @@ Total Purchase Value
 
 
 
+<<<<<<< HEAD
 My final considerations:
+=======
+My final considerations:
+
+>>>>>>> 1cf434f372c646e6dd21c27ae35c9cd0bfc6ce9f
